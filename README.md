@@ -77,8 +77,9 @@ Attendance prediction and tracking system built using Spring Boot.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshayakumar2020&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayakumar2020&layout=compact&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshayakumar2020&show_icons=true&theme=github_dark" />
+
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshayakumar2020&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
